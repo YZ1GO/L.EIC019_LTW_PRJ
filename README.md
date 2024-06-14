@@ -1,20 +1,15 @@
 # Auto Paradise
-## Group ltw06g09
-
 <p align="center"><img src="images/logo/auto-paradise-logo-text.png" width=50% ></p>
 
 Auto Paradise is an marketplace dedicated to buying and selling preloved diecast model cars.
-
-- Bruno Huang (up202207517) - 50%
-- Ricardo Yang (up202208465) - 50%
 
 ## Install
 
 ### Download
 ```bash
-git clone git@github.com:FEUP-LTW-2024/ltw-project-2024-ltw06g09.git
+git clone git@github.com:YZ1GO/L.EIC019_LTW_PRJ.git
 
-cd ltw-project-2024-ltw06g09
+cd L.EIC019_LTW_PRJ
 
 # switch to the correct branch
 git checkout final-delivery-v4
