@@ -91,21 +91,11 @@ We have been careful with the following security aspects:
 
 **Aditional Requirements**:
 
-We also implemented the following additional requirements (you can add more):
+We also implemented the following additional requirements:
 
 - [x] **Notifications System**
-- [ ] **Rating and Review System**
-- [ ] **Promotional Features**
-- [ ] **Analytics Dashboard**
-- [ ] **Multi-Currency Support**
-- [ ] **Item Swapping**
-- [ ] **API Integration**
-- [ ] **Dynamic Promotions**
-- [ ] **User Preferences**
 - [x] **Shipping Costs (Fixed Amount)**
-- [ ] **Real-Time Messaging System**
-- [x] **Dark Mode**
-- [x] **Admins can ban products**
+- [x] **Light/Dark Mode**
 
 ## Account Credentials
 Feel free to use the following test account credentials to explore our platform
